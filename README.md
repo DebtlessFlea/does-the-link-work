@@ -27,4 +27,4 @@ https://nonexistent-website.com
 5. The script will check each URL and generate a `results.txt` file with the link statuses. This file will also be opened automatically.
 
 ## 🌐 Statistics
-![Alt](https://repobeats.axiom.co/api/embed/a0b4f5cecc72cffe51ece0d72e50f04296eb1e11.svg "Repobeats analytics image")
+![Alt](https://repobeats.axiom.co/api/embed/fbee704600939e7eda4d58e6ca6c3137f46afc5a.svg "Repobeats analytics image")
