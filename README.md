@@ -16,6 +16,10 @@ python dTLW.py
 ```
 
 3. Edit `links.txt`
+
+> [!NOTE]
+> You can add comments in the `links.txt` file by starting a line with #. These comment lines will be preserved and copied to the `results.txt` file unchanged.
+
 ```bash
 # Add one URL per line below this line
 https://example.com
@@ -24,7 +28,7 @@ https://nonexistent-website.com
 
 4. Save and close `links.txt`
 
-5. The script will check each URL and generate a `results.txt` file with the link statuses. This file will also be opened automatically.
+5. The script will check each URL and generate a `results.txt` file with the link statuses. This file will be opened automatically.
 
 ## 🌐 Statistics
 ![Alt](https://repobeats.axiom.co/api/embed/fbee704600939e7eda4d58e6ca6c3137f46afc5a.svg "Repobeats analytics image")
