@@ -12,7 +12,7 @@ The **dTLW** is a Python script that allows you to check whether a list of URLs 
 
 2. Run `dTLW.py`
 ```bash
-python script_name.py
+python dTLW.py
 ```
 
 3. Edit `links.txt`
